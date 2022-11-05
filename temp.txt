@@ -1,2 +1,7 @@
-welcome to world
-hi i am infant
+#include<stdio.h>
+in main()
+{
+    printf("welcome to world");
+    printf("hi i am infant");
+    return 0;
+}    
